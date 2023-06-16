@@ -1,0 +1,15 @@
+						Flight Schedule of Today:
+
+LOCAL Flights:
+Flight no:		From-To:				Departure Time:				Arrival Time:		 
+Pak_413::      		LHR----ISBD     			10:00					11:00			
+Pak_411::		QT----PSH				22:00					00:00		
+Pak_748::		KRCH----LHR				10:00					12:00			
+Pak_599::		PSH----LHR				9:00					11:00				
+Pak_630::		kRCH----LHR				3:00					5:00			
+Pak_730::		ISBD----KRCH				9:00					3:00			
+
+Internatinal Flights:
+Flight no:		From-To:				Departure Time:				Arrival Time:	
+EMR_747::		LHR----Washington			00:00					23:00			
+QTR_650::		ISBD_Qatar				4:00					22:00		
